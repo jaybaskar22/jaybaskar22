@@ -3,3 +3,4 @@ Language: Python3
 Needs: py-ldap package
 Writes: output to a txt file
 Please reach out to jaybaskar22@gmail.com if you have questions
+Update: ADhostname, AD service account, Service account pwd, search base DN
