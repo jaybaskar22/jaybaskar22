@@ -1,0 +1,5 @@
+Purpose: Find users in Active Directory that match a certain filter, and change their account status to active
+Language: Python3
+Needs: py-ldap package
+Writes: output to a txt file
+Please reach out to jaybaskar22@gmail.com if you have questions
